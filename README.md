@@ -33,7 +33,6 @@ The **Facial Expression Recognition System** is a deep learning-based model that
 ## Dataset
 The model is trained on a well-structured facial expression dataset containing labeled images for each emotion category. The dataset consists of:
 - Preprocessed grayscale facial images.
-- Balanced data distribution among six classes.
 
 ## Technologies Used
 - **Programming Language:** Python
